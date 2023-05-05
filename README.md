@@ -1,3 +1,5 @@
+## Essa atividade tem como finalidade encontrar essas perguntas no arquivo AtvMovies.sql
+
 # E o Oscar vai para... ?
 Muito bem, Pessoal... 
 
