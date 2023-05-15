@@ -1,7 +1,7 @@
 CREATE TABLE `medicos` (
   `id_medico` int(11) PRIMARY KEY AUTO_INCREMENT,
   `name` varchar(255),
-  `cp` varchar(255),
+  `cpf` varchar(255),
   `rg` varchar(255),
   `telefone` varchar(255),
   `email` varchar(255),
