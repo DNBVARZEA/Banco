@@ -27,7 +27,7 @@
   <div>
     <div align="center">
       <h2>Modelo Conceitual</h2>
-      <img src="https://github.com/Ismael-Oficial/BD-Hospital/assets/125465461/832f5f1a-734e-42fc-aab8-eb8c51702c12">
+      <img src="https://github.com/DevPedroSantos/BancoDeDados/assets/102003471/9df4d74a-da05-4808-bd7c-6ed3ca4a6a38">
     </div>
     <div align="center">
       <h2>Modelo Lógico</h2>
