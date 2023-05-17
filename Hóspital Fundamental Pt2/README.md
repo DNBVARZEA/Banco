@@ -46,6 +46,6 @@
     </div>
     <div align="center">
       <h2>Modelo lógico:</h2>
-      <img width=100% src="https://github.com/DevPedroSantos/BancoDeDados/assets/102003471/a2c24c48-6fa8-4273-b751-6ecc01c61fe6" />
+      <img width=100% src="https://github.com/DevPedroSantos/BancoDeDados/assets/102003471/6d103203-c977-47b2-89b4-032ee3ef3fe0" />
     </div>
 </div>
