@@ -31,7 +31,7 @@
     </div>
     <div align="center">
       <h2>Modelo Lógico</h2>
-      <img src="https://github.com/Ismael-Oficial/BD-Hospital/assets/125465461/ebee8f87-27b9-4fcd-ab7c-cd3a171caae9">
+      <img src="https://github.com/DevPedroSantos/BancoDeDados/assets/102003471/8ccaa8ab-4d6d-4968-a628-048bacf7723f">
     </div>
   </div>
 </div>
