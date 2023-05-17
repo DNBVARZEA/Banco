@@ -42,7 +42,7 @@
  <div>
     <div align="center">
       <h2>Modelo conceitual:</h2>
-      <img width=100% src="https://github.com/DevPedroSantos/BancoDeDados/assets/102003471/43ecddd0-4619-4c2d-8f3b-b91ac64027af" />
+      <img width=100% src="https://github.com/DevPedroSantos/BancoDeDados/assets/102003471/b84364c6-9f6b-49ee-8469-243e1c6bdadf" />
     </div>
     <div align="center">
       <h2>Modelo lógico:</h2>
